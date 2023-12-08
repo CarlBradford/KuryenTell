@@ -106,17 +106,6 @@ To install the other packages follow the same syntax but change the package name
 </p>
 
 #
-## 🎥Video Presentation
-<p align="justify">
-  Explore the realm of "KuryenTell" through our engaging video presentation, highlighting its key features. Witness its capability to calculate kW usage across various timeframes, break down bill percentages, estimate electricity costs, offer energy-saving tips, and provide insights into appliance efficiency. Experience firsthand how KuryenTell transforms energy management for a sustainable future. 
-</p>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/1dBXQfO4h08yldOWtkDQEoW4KWw5A_6wU/view?usp=drive_link" target="_blank">KuryenTell Video Presentation</a>
-</p>
-
-
-#
 ## 🌏Sustainable Development Goals (SDGs)
 
 <p align="center">
@@ -133,6 +122,16 @@ KuryenTell aims to promote informed decision-making, reduce energy consumption, 
 - **SDG 13: Climate Action**
 <p align="justify">
 The emphasis on environmental responsibility and energy-conscious practices in KuryenTell also aligns with global efforts to combat climate change and mitigate its impacts.
+</p>
+
+#
+## 🎥Video Presentation
+<p align="justify">
+  Explore the realm of "KuryenTell" through our engaging video presentation, highlighting its key features. Witness its capability to calculate kW usage across various timeframes, break down bill percentages, estimate electricity costs, offer energy-saving tips, and provide insights into appliance efficiency. Experience firsthand how KuryenTell transforms energy management for a sustainable future. 
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1dBXQfO4h08yldOWtkDQEoW4KWw5A_6wU/view?usp=drive_link" target="_blank">KuryenTell Video Presentation</a>
 </p>
 
 #
