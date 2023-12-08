@@ -17,6 +17,7 @@
 - [🌏Sustainable Development Goals (SDGs)](#sustainable-development-goals-sdgs)
 - [🎥 Video Presentation](#video-presentation)
 - [🤵Meet the Team](#meet-the-team)
+- [📊Contributions and Self-Assessment ](#contributions-and-self-assessment)
 
  #
 ## 📚Introduction 
@@ -176,3 +177,35 @@ The emphasis on environmental responsibility and energy-conscious practices in K
 <p align="center">
   22-04181@g.batstate-u.edu.ph
 </p>
+
+## 📊Contributions and Self-Assessment for the Project
+
+<p align="justify">
+  <strong>Breakdown of Contributions</strong>
+</p>
+
+- **Calusor, John Paul D.:** Programmer, PPT Presentation - (25%)
+- **De Sagun, Carl Bradford M.:** Programmer, Video Presentation - (25%)
+- **Pasia, John Cedric M.:** Programmer, ReadMe(Documentation) - (25%)
+- **Zoleta, Stephen M.:** Programmer, Developer/Debugger - (25%)
+
+<p align="justify">
+  <strong>Self-Assessment</strong>
+</p>
+
+<p align="justify">
+  We, the KuryenTell team, have conducted a self-assessment of our project based on various criteria. Here are the ratings for the criteria:
+</p>
+
+- **Code Reusability:** 4
+- **Maintainability:** 4
+- **Scalability:** 4
+- **Execution:** 4
+- **Originality:** 4
+- **Overall Impression:** 4
+
+<p align="justify">
+ These ratings signify our assessment of the project's performance in specific domains. We are committed to ongoing improvement and value your suggestions for potential enhancements in the future.
+</p>
+
+
