@@ -178,7 +178,7 @@ The emphasis on environmental responsibility and energy-conscious practices in K
   22-04181@g.batstate-u.edu.ph
 </p>
 
-## 📊Contributions and Self-Assessment for the Project
+## 📊Contributions and Self-Assessment
 
 <p align="justify">
   <strong>Breakdown of Contributions</strong>
