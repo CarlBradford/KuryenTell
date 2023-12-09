@@ -187,7 +187,7 @@ The emphasis on environmental responsibility and energy-conscious practices in K
 - **Calusor, John Paul D.:** Programmer, PPT Presentation - (25%)
 - **De Sagun, Carl Bradford M.:** Programmer, Video Presentation - (25%)
 - **Pasia, John Cedric M.:** Programmer, ReadMe(Documentation) - (25%)
-- **Zoleta, Stephen M.:** Programmer, Developer/Debugger - (25%)
+- **Zoleta, Stephen M.:** Main Programmer, Developer/Debugger - (25%)
 
 <p align="justify">
   <strong>Self-Assessment</strong>
